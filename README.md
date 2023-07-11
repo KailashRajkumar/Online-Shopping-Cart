@@ -1,3 +1,3 @@
 # Online-Shopping-Cart
 
-- online-shopping-application.netlify.app
+- https://online-shopping-application.netlify.app/
